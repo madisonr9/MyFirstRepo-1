@@ -86,6 +86,8 @@ print("How old are you?")
 age = input()
 if age == "14":
     print("Me too! When is your birthday?")
+else:
+    print("cool")
     birthday = input()
     if birthday == "November 12":
         print("NO WAY! ME TOO!")
